@@ -37,3 +37,12 @@ def imprimir_usuario(usuario):
         password: {usuario["password"]}
         
         """)
+    
+    
+def agregar_usuario():
+    pass
+def eliminar_usuario():
+    pass
+
+def buscar_usuario():
+    pass
